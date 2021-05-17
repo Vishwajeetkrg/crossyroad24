@@ -1,0 +1,23 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background-color: orange;
+}
+
+h2 {
+	font-family: cursive;
+	text-align: center;
+	color: blue;
+	font-size: 20rem;
+	padding-left: 0px;
+	background: lime;
+	border-color: red;
+	border-width: 30px;
+	border-radius: 1000px;
+	border-style: solid;
+}
+
+canvas {
+	display: block;
+}
